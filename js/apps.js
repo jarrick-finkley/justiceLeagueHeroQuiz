@@ -24,7 +24,7 @@ button.onclick = function hero(){
        hero.push('Wonder Woman', 'Superman')
    } else if (people == '!people') {
        hero.push('Cyborg', 'The Flash', 'Aquaman')
-   } else if (peopel == 'either') {
+   } else if (people == 'either') {
        hero.push('Batman')
    }
 
